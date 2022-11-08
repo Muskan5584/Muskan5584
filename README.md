@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Muskan 
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+- 👋 Hi, I’m Muskan.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently Working as a Systems Engineer.
 - 📫 muskanyadav5584@gmail.com
 
 <!---
